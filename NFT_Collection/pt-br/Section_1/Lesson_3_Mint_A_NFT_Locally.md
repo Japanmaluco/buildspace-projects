@@ -14,7 +14,7 @@ Nós queremos deletar todo o código inicial que foi gerado para nós. Vamos com
 Agora, abra o projeto no VSCode e vamos começar a escrever nosso contrato NFT. Se você nunca escreveu um contrato inteligente, não se preocupe.
 **Só siga o que faremos. Procure no Google coisas que você não entender, ou pergunte no Discord.**
 
-CRie um arquivo com o nome `MyEpicNFT.sol` dentro do diretório `contracts`. A estrutura de arquivos é super importante quando usamos Hardhat, então tenha cuidado com isso!
+Crie um arquivo com o nome `MyEpicNFT.sol` dentro do diretório `contracts`. A estrutura de arquivos é super importante quando usamos Hardhat, então tenha cuidado com isso!
 
 Nota: eu recomendo fazer o download da [extensão Solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) para VSCode, que providencia marcador de sintaxe.
 
@@ -74,7 +74,7 @@ Incrível - temos nosso contrato inteligente! Mas não sabemos se ele funciona. 
 
 2. Implantá-lo (deploy) na nossa blockchain local.
 
-3. UMa vez que estiver lá, o console.log vai rodar.
+3. Uma vez que estiver lá, o console.log vai rodar.
 
 Nós vamos escrever um script customizado que cuide desses 3 passos para nós.
 
